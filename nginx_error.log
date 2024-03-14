@@ -1,0 +1,4 @@
+Mar 14 16:33:15 web nginx_error: 2024/03/14 16:33:15 [error] 3999#3999: *1 directory index of "/var/www/html/" is forbidden, client: 192.168.56.1, server: _, request: "GET / HTTP/1.1", host: "192.168.56.10"
+Mar 14 16:33:26 web nginx_error: 2024/03/14 16:33:26 [error] 3999#3999: *1 directory index of "/var/www/html/" is forbidden, client: 192.168.56.1, server: _, request: "GET / HTTP/1.1", host: "192.168.56.10"
+Mar 14 16:33:26 web nginx_error: 2024/03/14 16:33:26 [error] 3999#3999: *1 directory index of "/var/www/html/" is forbidden, client: 192.168.56.1, server: _, request: "GET / HTTP/1.1", host: "192.168.56.10"
+Mar 14 16:33:26 web nginx_error: 2024/03/14 16:33:26 [error] 3999#3999: *1 directory index of "/var/www/html/" is forbidden, client: 192.168.56.1, server: _, request: "GET / HTTP/1.1", host: "192.168.56.10"
